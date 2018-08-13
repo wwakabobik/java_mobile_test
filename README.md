@@ -1,1 +1,1 @@
-# mobile_test
+# This repo is for demonstration of mobile testing (Android, iOS, etc.)
